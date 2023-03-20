@@ -1,0 +1,12 @@
+{
+  "name": "Reverse Colors",
+  "id": "1218304855252846521",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "decoder.html",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ]
+}
